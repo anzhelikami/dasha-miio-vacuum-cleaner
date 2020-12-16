@@ -1,0 +1,16 @@
+{
+  "name": "miio-vacuum-cleaner",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "ts-node -r dotenv/config main.ts",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@dasha.ai/platform-sdk": "^0.5.1",
+    "@types/node": "^12.19.7",
+    "dotenv": "^8.2.0",
+    "node-mihome": "0.0.27",
+    "ts-node": "^9.0.0",
+    "typescript": "^4.1.2"
+  }
+}

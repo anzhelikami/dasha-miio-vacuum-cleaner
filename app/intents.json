@@ -1,0 +1,39 @@
+{
+  "includes": {
+    "start_cleaning": [
+      "start cleaning",
+      "it's dirty",
+      "dirty here",
+      "clean my room",
+      "clean the place",
+      "clean the place please",
+      "I want this place clean"
+    ],
+    "stop_cleaning": [
+      "stop",
+      "enough",
+      "stop cleaning",
+      "it's clean",
+      "it's clean already",
+      "I'll stop please"
+    ],
+    "battery_level": [
+      "battery level",
+      "how much battery left",
+      "do you have enough battery",
+      "do you need charging",
+      "need any charging"
+    ]
+  },
+  "excludes": {
+    "start_cleaning": [
+      "okay I think it's going enough",
+      "I think it's a cake",
+      "I'll stop please",
+      "in New York"
+    ],
+    "stop_cleaning": [
+      "planet"
+    ]
+  }
+}
