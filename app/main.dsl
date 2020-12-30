@@ -51,3 +51,19 @@ digression get_battery
         return;
     }
 }
+
+digression hangup
+{
+    conditions
+    {
+        on true tags: onclosed;
+    }
+    do
+    {
+        #disconnect();
+        exit;
+    }
+    transitions
+    {
+    }
+}
