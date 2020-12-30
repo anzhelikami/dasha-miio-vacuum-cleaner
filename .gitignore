@@ -2,4 +2,3 @@ node_modules
 .env
 profiles
 log.txt
-package-lock.json
