@@ -1,6 +1,6 @@
 # How to start the demo app
 
-This example shows how to build an assistant for controlling Xiaomi vacuum cleaner on top of Dasha. If you need any help, join us in our [Slack Community](https://join.slack.com/t/dashacommunity/shared_invite/zt-jhibmznm-kiQ336q5IqYtK6EnYyV_Nw).
+This example shows how to build an assistant for controlling Xiaomi vacuum cleaner on top of Dasha. If you need any help, join us in our [Developer Community](https://discord.gg/R8mDP2JGmv).
 
 The app is built on [`node-mihome`](https://www.npmjs.com/package/node-mihome) and uses it's specific parameters. Please consult with their docs on how to obtain your `DEVICE_ID`, `DEVICE_TOKEN`, etc.
 
